@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Ivan Kondzerau](https://up.htmlacademy.ru/yii/1/user/1033347).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Соловьев](https://htmlacademy.ru/profile/id416367).
 
 ---
 
